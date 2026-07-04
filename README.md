@@ -24,15 +24,16 @@ I'm a Computer Science student in Germany with a strong interest in backend deve
 - PostgreSQL
 - Git & GitHub Best Practices
 
+## 📂 Featured Projects
+
+Coming soon...
+
 ## 🚀 Development Setup
 
 This repository is my GitHub profile.
 
 I am actively building my software engineering portfolio step by step using Java, C and algorithms.
 
-## 📂 Featured Projects
-
-Coming soon...
 
 ## 🎯 Goals for 2026
 
