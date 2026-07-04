@@ -5,7 +5,7 @@ I'm a Computer Science student in Germany with a strong interest in backend deve
 
 ## 👩‍💻 About Me
 
-- 🎓 Computer Science student
+- 🎓 Computer Science student at Leibniz University Hannover
 - 💻 Mainly working with Java and C
 - 🌱 Currently learning Spring Boot, REST APIs and PostgreSQL
 - 📚 Interested in algorithms, data structures and clean code
