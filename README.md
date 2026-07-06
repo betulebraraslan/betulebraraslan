@@ -17,6 +17,7 @@ I'm a Computer Science student in Germany with a strong interest in backend deve
 - Java
 - C
 - Pyhton
+- HTML
 
 **Currently Learning**
 - Spring Boot
